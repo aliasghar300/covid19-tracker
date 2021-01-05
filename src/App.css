@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #3F51B5;
+  color: rgb(225, 225, 225);
+}
+a:link{
+  text-decoration: none;
+}
+
+a {
+  color: #ffffff
+}
+a:hover {
+  text-decoration: underline;
+}
